@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="oLehAsb8e_HI5VfCKaq5">
-    <mxGraphModel dx="1058" dy="481" grid="1" gridSize="0.9999979999999999" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="398" grid="1" gridSize="0.9999979999999999" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,6 +51,9 @@
         </mxCell>
         <mxCell id="PpA0PTyQoyr448dUunVf-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;pre&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;大语言模型&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="941" y="312" as="geometry" />
+        </mxCell>
+        <mxCell id="PpA0PTyQoyr448dUunVf-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="181" width="120" x="133" y="406" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
