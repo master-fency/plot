@@ -31,6 +31,15 @@
         <mxCell id="yu-jKS0j3KCrZe49rqkO-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="多头注意力" vertex="1">
           <mxGeometry height="25" width="120" x="372" y="134" as="geometry" />
         </mxCell>
+        <mxCell id="yu-jKS0j3KCrZe49rqkO-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="残差连接+归一化" vertex="1">
+          <mxGeometry height="25" width="120" x="372" y="207" as="geometry" />
+        </mxCell>
+        <mxCell id="yu-jKS0j3KCrZe49rqkO-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="多头注意力" vertex="1">
+          <mxGeometry height="25" width="120" x="372" y="279" as="geometry" />
+        </mxCell>
+        <mxCell id="yu-jKS0j3KCrZe49rqkO-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="多头注意力" vertex="1">
+          <mxGeometry height="25" width="120" x="372" y="352" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
