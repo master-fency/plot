@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yu-jKS0j3KCrZe49rqkO-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;horizontal=1;fontSize=12;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Transformer 编码器&lt;/font&gt;" vertex="1">
-          <mxGeometry height="173.55" width="286" x="289" y="144.45" as="geometry" />
+          <mxGeometry height="173.55" width="286" x="289" y="153.17499999999998" as="geometry" />
         </mxCell>
         <mxCell id="yu-jKS0j3KCrZe49rqkO-18" edge="1" parent="1" source="yu-jKS0j3KCrZe49rqkO-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yu-jKS0j3KCrZe49rqkO-14" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -28,17 +28,23 @@
         <mxCell id="yu-jKS0j3KCrZe49rqkO-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" value="多头注意力" vertex="1">
           <mxGeometry height="120" width="25" x="534" y="179.95000000000002" as="geometry" />
         </mxCell>
-        <mxCell id="yu-jKS0j3KCrZe49rqkO-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;dashed=1;dashPattern=12 12;" value="" vertex="1">
-          <mxGeometry height="195" width="144" x="111" y="137" as="geometry" />
+        <mxCell id="yu-jKS0j3KCrZe49rqkO-24" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="168" width="144" x="125" y="155.95" as="geometry" />
         </mxCell>
-        <mxCell id="yu-jKS0j3KCrZe49rqkO-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=middle;horizontal=1;" value="&lt;font&gt;嵌入层&lt;/font&gt;" vertex="1">
-          <mxGeometry height="24" width="120" x="118" y="152" as="geometry" />
+        <mxCell id="yu-jKS0j3KCrZe49rqkO-8" parent="yu-jKS0j3KCrZe49rqkO-24" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;dashed=1;dashPattern=12 12;" value="" vertex="1">
+          <mxGeometry height="168" width="144" as="geometry" />
         </mxCell>
-        <mxCell id="yu-jKS0j3KCrZe49rqkO-6" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or_2;" value="" vertex="1">
-          <mxGeometry height="31" width="35" x="160.5" y="223" as="geometry" />
+        <mxCell id="yu-jKS0j3KCrZe49rqkO-4" parent="yu-jKS0j3KCrZe49rqkO-24" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=middle;horizontal=1;" value="&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;font&gt;嵌入层&lt;/font&gt;&lt;div&gt;&lt;font&gt;Linear Projection&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="48" width="120" x="12" y="8.310000000000002" as="geometry" />
         </mxCell>
-        <mxCell id="yu-jKS0j3KCrZe49rqkO-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=middle;horizontal=1;" value="&lt;font&gt;位置编码&lt;/font&gt;" vertex="1">
-          <mxGeometry height="24" width="120" x="118" y="275.95" as="geometry" />
+        <mxCell id="yu-jKS0j3KCrZe49rqkO-6" parent="yu-jKS0j3KCrZe49rqkO-24" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or_2;" value="" vertex="1">
+          <mxGeometry height="34" width="35.5" x="54.5" y="66.05000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="yu-jKS0j3KCrZe49rqkO-23" parent="yu-jKS0j3KCrZe49rqkO-24" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=middle;horizontal=1;" value="&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;font&gt;位置编码&lt;/font&gt;&lt;div&gt;&lt;font&gt;Positional Encoding&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="48" width="120" x="12" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yu-jKS0j3KCrZe49rqkO-27" edge="1" parent="1" source="yu-jKS0j3KCrZe49rqkO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="yu-jKS0j3KCrZe49rqkO-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
