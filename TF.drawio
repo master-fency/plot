@@ -1,9 +1,30 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="zLJsUFtpP1l9myYvbG_M">
-    <mxGraphModel dx="1030" dy="577" grid="0" gridSize="0.9999979999999999" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="710" dy="398" grid="0" gridSize="0.9999979999999999" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yu-jKS0j3KCrZe49rqkO-9" edge="1" parent="1" source="yu-jKS0j3KCrZe49rqkO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yu-jKS0j3KCrZe49rqkO-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yu-jKS0j3KCrZe49rqkO-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;历史轨迹&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="81" y="99" as="geometry" />
+        </mxCell>
+        <mxCell id="yu-jKS0j3KCrZe49rqkO-11" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="195" width="144" x="69" y="194" as="geometry" />
+        </mxCell>
+        <mxCell id="yu-jKS0j3KCrZe49rqkO-8" parent="yu-jKS0j3KCrZe49rqkO-11" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;dashed=1;dashPattern=12 12;" value="" vertex="1">
+          <mxGeometry height="195" width="144" as="geometry" />
+        </mxCell>
+        <mxCell id="yu-jKS0j3KCrZe49rqkO-4" parent="yu-jKS0j3KCrZe49rqkO-11" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;嵌入层&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="13" y="12" as="geometry" />
+        </mxCell>
+        <mxCell id="yu-jKS0j3KCrZe49rqkO-5" parent="yu-jKS0j3KCrZe49rqkO-11" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;位置编码&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="13" y="124" as="geometry" />
+        </mxCell>
+        <mxCell id="yu-jKS0j3KCrZe49rqkO-6" parent="yu-jKS0j3KCrZe49rqkO-11" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or_2;" value="" vertex="1">
+          <mxGeometry height="31" width="35" x="55.5" y="83" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
