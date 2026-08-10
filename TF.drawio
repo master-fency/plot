@@ -28,6 +28,9 @@
         <mxCell id="yu-jKS0j3KCrZe49rqkO-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;horizontal=1;fontSize=12;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Transformer 编码器&lt;/font&gt;" vertex="1">
           <mxGeometry height="290" width="286" x="289" y="99" as="geometry" />
         </mxCell>
+        <mxCell id="yu-jKS0j3KCrZe49rqkO-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="多头注意力" vertex="1">
+          <mxGeometry height="25" width="120" x="372" y="134" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
