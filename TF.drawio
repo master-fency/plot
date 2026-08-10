@@ -37,6 +37,9 @@
         <mxCell id="yu-jKS0j3KCrZe49rqkO-6" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or_2;" value="" vertex="1">
           <mxGeometry height="31" width="35" x="160.5" y="223" as="geometry" />
         </mxCell>
+        <mxCell id="yu-jKS0j3KCrZe49rqkO-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=middle;horizontal=1;" value="&lt;font&gt;位置编码&lt;/font&gt;" vertex="1">
+          <mxGeometry height="24" width="120" x="118" y="275.95" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
