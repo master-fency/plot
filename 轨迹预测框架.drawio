@@ -62,7 +62,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PpA0PTyQoyr448dUunVf-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="&lt;pre&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px;&quot;&gt;大语言模型&lt;/font&gt;&lt;/pre&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="941" y="312" as="geometry" />
+          <mxGeometry height="60" width="139" x="941" y="312" as="geometry" />
         </mxCell>
         <mxCell id="PpA0PTyQoyr448dUunVf-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="&lt;div style=&quot;line-height: 180%;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px; line-height: 180%;&quot;&gt;CV&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px; line-height: 180%;&quot;&gt;CA&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px; line-height: 180%;&quot;&gt;Singer&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px; line-height: 180%;&quot;&gt;CJ&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px; line-height: 180%;&quot;&gt;CAV&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="181" width="120" x="133" y="406" as="geometry" />
@@ -77,7 +77,7 @@
           <mxGeometry height="181" width="120" x="751" y="406" as="geometry" />
         </mxCell>
         <mxCell id="PpA0PTyQoyr448dUunVf-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="&lt;div style=&quot;line-height: 240%;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px; line-height: 240%;&quot;&gt;语言建模范式&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px; line-height: 240%;&quot;&gt;思维链推理&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px; line-height: 240%;&quot;&gt;多源信息语义融合&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px; line-height: 240%;&quot;&gt;轻量化架构&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="181" width="120" x="941" y="406" as="geometry" />
+          <mxGeometry height="181" width="120" x="950.5" y="406" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
