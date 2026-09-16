@@ -58,16 +58,16 @@
         <mxCell id="1ig9r9UJUvNWMycA_u8l-58" connectable="0" parent="1ig9r9UJUvNWMycA_u8l-56" style="group" value="" vertex="1">
           <mxGeometry height="48" width="427" x="6" y="42" as="geometry" />
         </mxCell>
-        <mxCell id="1ig9r9UJUvNWMycA_u8l-59" parent="1ig9r9UJUvNWMycA_u8l-58" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" value="&lt;pre&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 20px; white-space: normal;&quot;&gt;思维链&lt;br&gt;推理&lt;/span&gt;&lt;/pre&gt;" vertex="1">
+        <mxCell id="1ig9r9UJUvNWMycA_u8l-59" parent="1ig9r9UJUvNWMycA_u8l-58" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" value="&lt;pre&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Times New Roman&amp;quot;; white-space: normal;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;思维链&lt;br&gt;推理&lt;/font&gt;&lt;/span&gt;&lt;/pre&gt;" vertex="1">
           <mxGeometry height="48" width="84" x="100" as="geometry" />
         </mxCell>
         <mxCell id="1ig9r9UJUvNWMycA_u8l-60" parent="1ig9r9UJUvNWMycA_u8l-58" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" value="&lt;pre&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Times New Roman&amp;quot;; white-space: normal;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;语言建&lt;br&gt;模范式&lt;/font&gt;&lt;/span&gt;&lt;/pre&gt;" vertex="1">
           <mxGeometry height="48" width="84" as="geometry" />
         </mxCell>
-        <mxCell id="1ig9r9UJUvNWMycA_u8l-61" parent="1ig9r9UJUvNWMycA_u8l-58" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" value="&lt;pre&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Times New Roman&amp;quot;; white-space: normal;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;门控循&lt;br&gt;环单元&lt;/font&gt;&lt;/span&gt;&lt;/pre&gt;" vertex="1">
+        <mxCell id="1ig9r9UJUvNWMycA_u8l-61" parent="1ig9r9UJUvNWMycA_u8l-58" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" value="&lt;pre&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Times New Roman&amp;quot;; white-space: normal;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;多源信息语义融合&lt;/font&gt;&lt;/span&gt;&lt;/pre&gt;" vertex="1">
           <mxGeometry height="48" width="84" x="200" as="geometry" />
         </mxCell>
-        <mxCell id="1ig9r9UJUvNWMycA_u8l-62" parent="1ig9r9UJUvNWMycA_u8l-58" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" value="&lt;pre&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 24px; white-space: normal;&quot;&gt;Transformer&lt;/span&gt;&lt;/pre&gt;" vertex="1">
+        <mxCell id="1ig9r9UJUvNWMycA_u8l-62" parent="1ig9r9UJUvNWMycA_u8l-58" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" value="&lt;pre&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Times New Roman&amp;quot;; white-space: normal;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;轻量化架构&lt;/font&gt;&lt;/span&gt;&lt;/pre&gt;" vertex="1">
           <mxGeometry height="48" width="127" x="300" as="geometry" />
         </mxCell>
       </root>
