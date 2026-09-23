@@ -1,0 +1,16 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="FxUsezKrmVdoKG7cbJBs">
+    <mxGraphModel dx="165" dy="91" grid="1" gridSize="0.9999979999999999" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XEA_WW_gX7iBTI901m_r-1" parent="1" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="552" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="XEA_WW_gX7iBTI901m_r-2" parent="1" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="619" y="271" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
