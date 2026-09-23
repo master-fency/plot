@@ -73,8 +73,11 @@
         <mxCell id="WvdCm7wP8x_haM-Nx9XL-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;R&lt;/i&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="518.998962" y="321.999356" as="geometry" />
         </mxCell>
-        <mxCell id="WvdCm7wP8x_haM-Nx9XL-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;θ&lt;/i&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="WvdCm7wP8x_haM-Nx9XL-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;θ&lt;sub&gt;T&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="602.998794" y="235.999528" as="geometry" />
+        </mxCell>
+        <mxCell id="WvdCm7wP8x_haM-Nx9XL-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;V&lt;sub&gt;T&lt;/sub&gt;&lt;/font&gt;&lt;/i&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="547.9989039999999" y="219.99955999999997" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
