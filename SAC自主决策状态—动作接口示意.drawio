@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oHXhPbwFURxUc0_vOpph-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;SAC智能体&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;Actor + Critic&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="oHXhPbwFURxUc0_vOpph-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;SAC智能体&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Actor + Critic&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="478" y="265.5" as="geometry" />
         </mxCell>
-        <mxCell id="oHXhPbwFURxUc0_vOpph-16" connectable="0" parent="1" style="group" value="" vertex="1">
+        <mxCell id="oHXhPbwFURxUc0_vOpph-16" connectable="0" parent="1" style="group;fontFamily=Times New Roman;" value="" vertex="1">
           <mxGeometry height="301" width="110" x="281" y="145" as="geometry" />
         </mxCell>
         <mxCell id="oHXhPbwFURxUc0_vOpph-3" parent="oHXhPbwFURxUc0_vOpph-16" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;相对位置&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i&gt;X&lt;/i&gt;,&amp;nbsp;&lt;i&gt;Y&lt;/i&gt;,&amp;nbsp;&lt;i&gt;Z&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
@@ -22,7 +22,7 @@
         <mxCell id="oHXhPbwFURxUc0_vOpph-12" parent="oHXhPbwFURxUc0_vOpph-16" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;任务约束优先级/时间窗&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="52" width="110" y="249" as="geometry" />
         </mxCell>
-        <mxCell id="oHXhPbwFURxUc0_vOpph-17" connectable="0" parent="1" style="group" value="" vertex="1">
+        <mxCell id="oHXhPbwFURxUc0_vOpph-17" connectable="0" parent="1" style="group;fontFamily=Times New Roman;" value="" vertex="1">
           <mxGeometry height="228" width="110" x="685" y="181.5" as="geometry" />
         </mxCell>
         <mxCell id="oHXhPbwFURxUc0_vOpph-13" parent="oHXhPbwFURxUc0_vOpph-17" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;控制决策&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Δ&lt;i&gt;V&lt;/i&gt;/推力&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
