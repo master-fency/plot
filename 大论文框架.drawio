@@ -7,6 +7,9 @@
         <mxCell id="VQzfYORDmd6ZCI1E7IqZ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontFamily=Times New Roman;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;非完全信息测量下低空机动目标鲁棒与协同制导方法研究&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="336" x="374" y="127" as="geometry" />
         </mxCell>
+        <mxCell id="VQzfYORDmd6ZCI1E7IqZ-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;分完全信息测量&lt;/font&gt;" vertex="1">
+          <mxGeometry height="42" width="120" x="239" y="232" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
