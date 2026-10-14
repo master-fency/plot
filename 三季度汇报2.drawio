@@ -95,7 +95,7 @@
         <mxCell id="v1E1le19kggsp13sD1S2-73" connectable="0" parent="v1E1le19kggsp13sD1S2-75" style="group" value="" vertex="1">
           <mxGeometry height="112.33999999999997" width="732.83" x="107.58499999999998" y="189" as="geometry" />
         </mxCell>
-        <mxCell id="v1E1le19kggsp13sD1S2-72" parent="v1E1le19kggsp13sD1S2-73" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;align=left;spacingLeft=9.8425;arcSize=8;dashed=1;dashPattern=8 8;strokeWidth=1.9685;strokeColor=#9673a6;fillColor=#e1d5e7;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;离线训练与评估&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="v1E1le19kggsp13sD1S2-72" parent="v1E1le19kggsp13sD1S2-73" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;align=left;spacingLeft=9.8425;arcSize=8;dashed=1;dashPattern=8 8;strokeWidth=1.9685;strokeColor=#d79b00;fillColor=#ffe6cc;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;离线训练与评估&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="112.34" width="732.83" as="geometry" />
         </mxCell>
         <mxCell id="v1E1le19kggsp13sD1S2-69" connectable="0" parent="v1E1le19kggsp13sD1S2-73" style="group" value="" vertex="1">
