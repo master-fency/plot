@@ -1,16 +1,13 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="bmy8qF18GvqqdbB0q5h6">
-    <mxGraphModel dx="1172" dy="650" grid="0" gridSize="0.9999979999999999" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1406" dy="780" grid="0" gridSize="0.9999979999999999" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="v1E1le19kggsp13sD1S2-72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;align=left;spacingLeft=9.8425;arcSize=8;dashed=1;dashPattern=8 8;strokeWidth=1.9685;strokeColor=#B3B3B3;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;预测模型:运动学残差卷积Transformer(KRCT)&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="208" width="968" x="202.16999999999996" y="327.6599999999999" as="geometry" />
-        </mxCell>
         <mxCell id="v1E1le19kggsp13sD1S2-70" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="208" width="1015" x="92" y="96" as="geometry" />
         </mxCell>
-        <mxCell id="v1E1le19kggsp13sD1S2-71" parent="v1E1le19kggsp13sD1S2-70" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;align=left;spacingLeft=9.8425;arcSize=8;dashed=1;dashPattern=8 8;strokeWidth=1.9685;strokeColor=#B3B3B3;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;预测模型:运动学残差卷积Transformer(KRCT)&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="v1E1le19kggsp13sD1S2-71" parent="v1E1le19kggsp13sD1S2-70" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;align=left;spacingLeft=9.8425;arcSize=8;dashed=1;dashPattern=8 8;strokeWidth=1.9685;strokeColor=#36393d;fillColor=#f9f7ed;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;预测模型:运动学残差卷积Transformer(KRCT)&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="208" width="968" x="-10" y="-41" as="geometry" />
         </mxCell>
         <mxCell id="v1E1le19kggsp13sD1S2-54" edge="1" parent="v1E1le19kggsp13sD1S2-70" source="v1E1le19kggsp13sD1S2-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="v1E1le19kggsp13sD1S2-40" value="">
@@ -89,8 +86,14 @@
         <mxCell id="v1E1le19kggsp13sD1S2-56" edge="1" parent="v1E1le19kggsp13sD1S2-70" source="v1E1le19kggsp13sD1S2-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="v1E1le19kggsp13sD1S2-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v1E1le19kggsp13sD1S2-69" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="70" width="707" x="213.5" y="355" as="geometry" />
+        <mxCell id="v1E1le19kggsp13sD1S2-73" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="112.33999999999997" width="732.83" x="202.17" y="327.66" as="geometry" />
+        </mxCell>
+        <mxCell id="v1E1le19kggsp13sD1S2-72" parent="v1E1le19kggsp13sD1S2-73" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;align=left;spacingLeft=9.8425;arcSize=8;dashed=1;dashPattern=8 8;strokeWidth=1.9685;strokeColor=#36393d;fillColor=#f9f7ed;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;离线训练与评估&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="112.34" width="732.83" as="geometry" />
+        </mxCell>
+        <mxCell id="v1E1le19kggsp13sD1S2-69" connectable="0" parent="v1E1le19kggsp13sD1S2-73" style="group" value="" vertex="1">
+          <mxGeometry height="70" width="707" x="11.330000000000013" y="27.339999999999975" as="geometry" />
         </mxCell>
         <mxCell id="v1E1le19kggsp13sD1S2-66" edge="1" parent="v1E1le19kggsp13sD1S2-69" source="v1E1le19kggsp13sD1S2-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="v1E1le19kggsp13sD1S2-51" value="">
           <mxGeometry relative="1" as="geometry" />
