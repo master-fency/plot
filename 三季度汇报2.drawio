@@ -14,7 +14,7 @@
           <mxGeometry height="358" width="997" x="-10" y="-41" as="geometry" />
         </mxCell>
         <mxCell id="v1E1le19kggsp13sD1S2-76" parent="v1E1le19kggsp13sD1S2-74" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;dashed=1;dashPattern=8 8;strokeWidth=1.9685;strokeColor=#A9C4EB;arcSize=9;" value="" vertex="1">
-          <mxGeometry height="377" width="1002" x="-15" y="-19" as="geometry" />
+          <mxGeometry height="377" width="997" x="-15" y="-19" as="geometry" />
         </mxCell>
         <mxCell id="v1E1le19kggsp13sD1S2-71" parent="v1E1le19kggsp13sD1S2-74" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;align=left;spacingLeft=9.8425;arcSize=8;dashed=1;dashPattern=8 8;strokeWidth=1.9685;strokeColor=#FFD966;fillColor=#FFF2CC;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;预测模型:运动学残差卷积Transformer(KRCT)&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="208" width="968" as="geometry" />
