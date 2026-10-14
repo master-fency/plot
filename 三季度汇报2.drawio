@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="v1E1le19kggsp13sD1S2-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="历史轨迹&lt;div&gt;200点三维位置&lt;/div&gt;" vertex="1">
+        <mxCell id="v1E1le19kggsp13sD1S2-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;b&gt;历史轨迹&lt;/b&gt;&lt;div&gt;200点三维位置&lt;/div&gt;" vertex="1">
           <mxGeometry height="43" width="92" x="40" y="180.5" as="geometry" />
         </mxCell>
         <mxCell id="v1E1le19kggsp13sD1S2-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;窗口内特征构建&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;相对位置、速度、加速度SG:81点/三阶训练集统计量归一化&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
