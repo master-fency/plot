@@ -58,6 +58,9 @@
         <mxCell id="a-sMmcn9jzpN6HccOkwc-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontFamily=Times New Roman;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;随机采样&lt;/span&gt;" vertex="1">
           <mxGeometry height="39" width="79" x="445" y="287.99" as="geometry" />
         </mxCell>
+        <mxCell id="a-sMmcn9jzpN6HccOkwc-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontFamily=Times New Roman;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;网络更新&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;更新Critic(最小化TD误差)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;更新Actor(策略梯度)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;软更新目标网络&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;使用噪声进行探索&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100.99" width="202" x="564" y="257" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
