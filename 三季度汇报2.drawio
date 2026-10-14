@@ -10,35 +10,69 @@
         <mxCell id="v1E1le19kggsp13sD1S2-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;历史轨迹&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;200点位置&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="35.5" width="70" x="71" y="184.25" as="geometry" />
         </mxCell>
+        <mxCell id="v1E1le19kggsp13sD1S2-64" edge="1" parent="1" source="v1E1le19kggsp13sD1S2-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="v1E1le19kggsp13sD1S2-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="312" y="202" />
+              <mxPoint x="312" y="147" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v1E1le19kggsp13sD1S2-65" edge="1" parent="1" source="v1E1le19kggsp13sD1S2-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="v1E1le19kggsp13sD1S2-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="312" y="202" />
+              <mxPoint x="312" y="257" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="v1E1le19kggsp13sD1S2-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;窗口内特征构建&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;相对位置、速度、加速度SG:81点/三阶训练集统计量归一化&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="120" x="177" y="167" as="geometry" />
+        </mxCell>
+        <mxCell id="v1E1le19kggsp13sD1S2-57" edge="1" parent="1" source="v1E1le19kggsp13sD1S2-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="v1E1le19kggsp13sD1S2-42" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v1E1le19kggsp13sD1S2-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;两层一维卷积+GELU&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;9➡64&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;➡&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;64，卷积核28&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="41" width="137" x="332" y="126" as="geometry" />
         </mxCell>
+        <mxCell id="v1E1le19kggsp13sD1S2-58" edge="1" parent="1" source="v1E1le19kggsp13sD1S2-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="v1E1le19kggsp13sD1S2-43" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="v1E1le19kggsp13sD1S2-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;位置编码+聚合标记&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;4层 Transformer /4头&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="41" width="130" x="495" y="126" as="geometry" />
+          <mxGeometry height="41" width="130" x="502" y="126" as="geometry" />
         </mxCell>
         <mxCell id="v1E1le19kggsp13sD1S2-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;层归一化+线性映射三维残差&lt;i style=&quot;&quot;&gt;r&lt;sub style=&quot;&quot;&gt;θ&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="41" width="92" x="652" y="126" as="geometry" />
+          <mxGeometry height="41" width="92" x="666" y="126" as="geometry" />
         </mxCell>
-        <mxCell id="v1E1le19kggsp13sD1S2-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="转为归一化相对位移" vertex="1">
-          <mxGeometry height="41" width="106" x="638" y="237" as="geometry" />
+        <mxCell id="v1E1le19kggsp13sD1S2-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;转为归一化相对位移&lt;/font&gt;" vertex="1">
+          <mxGeometry height="41" width="120" x="638" y="237" as="geometry" />
         </mxCell>
-        <mxCell id="v1E1le19kggsp13sD1S2-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;匀加速外推&lt;i&gt;p&lt;sub&gt;t&lt;/sub&gt;&lt;/i&gt;+500&lt;i&gt;v&lt;sub&gt;t&lt;/sub&gt;&lt;/i&gt;+1250&lt;i&gt;a&lt;sub&gt;t&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="v1E1le19kggsp13sD1S2-60" edge="1" parent="1" source="v1E1le19kggsp13sD1S2-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="v1E1le19kggsp13sD1S2-44" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v1E1le19kggsp13sD1S2-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;匀加速外推&lt;i&gt;p&lt;sub&gt;t&lt;/sub&gt;&lt;/i&gt;+50&lt;i&gt;v&lt;sub&gt;t&lt;/sub&gt;&lt;/i&gt;+1250&lt;i&gt;a&lt;sub&gt;t&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="41" width="114" x="500" y="237" as="geometry" />
+        </mxCell>
+        <mxCell id="v1E1le19kggsp13sD1S2-59" edge="1" parent="1" source="v1E1le19kggsp13sD1S2-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="v1E1le19kggsp13sD1S2-45" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v1E1le19kggsp13sD1S2-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;未端位置、速度、加速度&lt;/font&gt;" vertex="1">
           <mxGeometry height="41" width="144" x="332" y="237" as="geometry" />
         </mxCell>
-        <mxCell id="v1E1le19kggsp13sD1S2-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="反归一化加回窗口起点坐标" vertex="1">
-          <mxGeometry height="52.88" width="83" x="831" y="184.12" as="geometry" />
+        <mxCell id="v1E1le19kggsp13sD1S2-62" edge="1" parent="1" source="v1E1le19kggsp13sD1S2-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="v1E1le19kggsp13sD1S2-48" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v1E1le19kggsp13sD1S2-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="未来第50步三维位置预测" vertex="1">
-          <mxGeometry height="52.88" width="83" x="944" y="184.12" as="geometry" />
+        <mxCell id="v1E1le19kggsp13sD1S2-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;反归一化加回窗口起点坐标&lt;/font&gt;" vertex="1">
+          <mxGeometry height="52.88" width="83" x="831" y="175.56" as="geometry" />
+        </mxCell>
+        <mxCell id="v1E1le19kggsp13sD1S2-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;未来第50步三维位置预测&lt;/font&gt;" vertex="1">
+          <mxGeometry height="52.88" width="83" x="934" y="175.57" as="geometry" />
+        </mxCell>
+        <mxCell id="v1E1le19kggsp13sD1S2-61" edge="1" parent="1" source="v1E1le19kggsp13sD1S2-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="v1E1le19kggsp13sD1S2-47" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v1E1le19kggsp13sD1S2-49" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or_2;" value="" vertex="1">
-          <mxGeometry height="38.25" width="43.5" x="758" y="195" as="geometry" />
+          <mxGeometry height="38.25" width="43.5" x="767" y="182.88" as="geometry" />
         </mxCell>
         <mxCell id="v1E1le19kggsp13sD1S2-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="数据检查与分组划分D2:训练/验证/测试重复轨迹归组隔离" vertex="1">
           <mxGeometry height="60" width="120" x="175" y="480" as="geometry" />
@@ -51,6 +85,12 @@
         </mxCell>
         <mxCell id="v1E1le19kggsp13sD1S2-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="模型选择与评估验证RMSE最优权重、早停D2留出测试、D1迁移检查三维/逐轴RMSE、平均终点距离" vertex="1">
           <mxGeometry height="106" width="153" x="725" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="v1E1le19kggsp13sD1S2-55" edge="1" parent="1" source="v1E1le19kggsp13sD1S2-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="v1E1le19kggsp13sD1S2-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v1E1le19kggsp13sD1S2-56" edge="1" parent="1" source="v1E1le19kggsp13sD1S2-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="v1E1le19kggsp13sD1S2-49">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
