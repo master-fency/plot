@@ -35,13 +35,13 @@
           <mxGeometry height="36" width="155" x="707" y="173" as="geometry" />
         </mxCell>
         <mxCell id="MOKzj9sUxGUh4CypC_l_-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontFamily=Times New Roman;" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;针对测角测速已知，测距大误差，且量测信息间断情况，基于时序预测网络对目标状态进行提取。&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="102" width="166" x="277.5" y="240" as="geometry" />
+          <mxGeometry height="102" width="177.5" x="271.75" y="240" as="geometry" />
         </mxCell>
         <mxCell id="MOKzj9sUxGUh4CypC_l_-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontFamily=Times New Roman;" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;在单目标感知基础上，考虑布努斯特角约束、导引头速度门限约束以及能量约束，设计多约束制导律&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="102" width="166" x="497" y="240" as="geometry" />
+          <mxGeometry height="102" width="175" x="492.5" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="MOKzj9sUxGUh4CypC_l_-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontFamily=Times New Roman;" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;针对低空多目标情景，考虑目标不同编队形式，采用基于深度强化学习的多对多协同制导律&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="102" width="166" x="701.5" y="240" as="geometry" />
+        <mxCell id="MOKzj9sUxGUh4CypC_l_-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontFamily=Times New Roman;" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;针对低空多目标情景，考虑不同编队形式，采用基于深度强化学习的多对多协同制导律。&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="102" width="175" x="697" y="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
