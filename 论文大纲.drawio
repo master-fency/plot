@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IZt1iddtrl5fD37N4tA_-81" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="低空机动目标拦截" vertex="1">
+          <mxGeometry height="133" width="25" x="121" y="287" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
