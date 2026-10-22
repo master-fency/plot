@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="AJldu5YccUSy7Pq8D5ES">
-    <mxGraphModel dx="562" dy="312" grid="0" gridSize="0.9999979999999999" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="676" dy="375" grid="0" gridSize="0.9999979999999999" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,6 +37,9 @@
         </mxCell>
         <mxCell id="U3QZ9R0I0GaQ9owHol1d-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=light-dark(#e8f1f7, #ededed);strokeColor=none;fontFamily=Times New Roman;" value="通道掩码&amp;nbsp;&lt;i&gt;Γ&lt;/i&gt;&lt;sub style=&quot;font-style: italic;&quot;&gt;k&amp;nbsp;&lt;/sub&gt;失测&lt;div&gt;及异常抑制&lt;/div&gt;" vertex="1">
           <mxGeometry height="35" width="97" x="103.5" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="U3QZ9R0I0GaQ9owHol1d-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=light-dark(#e8f1f7, #ededed);strokeColor=none;fontFamily=Times New Roman;" value="&lt;i&gt;z&lt;sub&gt;k&lt;/sub&gt;&lt;/i&gt; ,&amp;nbsp;&lt;i&gt;Γ&lt;/i&gt;&lt;sub style=&quot;font-style: italic;&quot;&gt;k&lt;/sub&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;&amp;nbsp;, q&lt;sub&gt;k&lt;/sub&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="35" width="97" x="103.5" y="257" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
