@@ -60,7 +60,10 @@
           <mxGeometry height="35" width="161.97471910112358" x="561.1966292134831" y="260" as="geometry" />
         </mxCell>
         <mxCell id="dBnrTRuvMOwsNcQ-yJCC-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;" value="&lt;font&gt;信息收益&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="250" y="253" as="geometry" />
+          <mxGeometry height="30" width="60" x="397.41" y="229" as="geometry" />
+        </mxCell>
+        <mxCell id="dBnrTRuvMOwsNcQ-yJCC-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;" value="&lt;font&gt;任务约束&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="647.6" y="229" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
