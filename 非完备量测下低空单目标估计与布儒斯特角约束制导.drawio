@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="U3QZ9R0I0GaQ9owHol1d-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;verticalAlign=top;align=left;spacingLeft=7.874;arcSize=8;" value="&lt;font face=&quot;Times New Roman&quot;&gt;低空运动及量测建模&lt;/font&gt;" vertex="1">
-          <mxGeometry height="250" width="129" x="89" y="47" as="geometry" />
+          <mxGeometry height="245" width="129" x="89" y="47" as="geometry" />
         </mxCell>
         <mxCell id="U3QZ9R0I0GaQ9owHol1d-19" connectable="0" parent="1" style="group;textShadow=1;" value="" vertex="1">
           <mxGeometry height="207" width="108" x="99.5" y="76" as="geometry" />
